@@ -127,7 +127,7 @@ Keep the response practical, concise and useful.
 
 with st.sidebar:
     st.title("🍽️ Review Analyser")
-    st.caption("AI School of India — Module 1 Project")
+    st.caption("Local AI Customer Review Analyser")
 
     model_name = st.selectbox(
         "Ollama Model",
